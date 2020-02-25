@@ -1,0 +1,6 @@
+[console_scripts]
+ufonet = UFONet:core.main
+
+[gui_scripts]
+ufonet = UFONet:core.main
+
