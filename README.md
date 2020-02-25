@@ -20,3 +20,4 @@ python setup.py install
        pip install geoip 
        pip install requests
        pip install pycrypto
+
